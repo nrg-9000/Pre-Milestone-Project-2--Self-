@@ -9,4 +9,4 @@ Game Class - This wil contain the main logic of the game
 '''
 
 if __name__ == "__main__":
-    print('Please run the Game file!')
+    print('Please run Game_Block!')
